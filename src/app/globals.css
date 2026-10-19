@@ -1,26 +1,65 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #08090b;
+  --foreground: #ede8df;
+  --asphalt: #0d0f13;
+  --charcoal: #15181e;
+  --border-muted: #242b35;
+  --accent-amber: #f59e0b;
+  --accent-orange: #f37021;
+  --accent-red: #e11d48;
 }
 
-@theme inline {
+@theme {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-asphalt: #0d0f13;
+  --color-charcoal: #15181e;
+  --color-border-muted: #242b35;
+  --color-accent-amber: #f59e0b;
+  --color-accent-orange: #f37021;
+  --color-accent-red: #e11d48;
+  --font-oswald: var(--font-oswald), Impact, sans-serif;
+  --font-space: var(--font-space-grotesk), sans-serif;
+  --font-mono: var(--font-jetbrains-mono), monospace;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
+/* Base styles */
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: #08090b;
+  color: #ede8df;
+  font-family: var(--font-space-grotesk), system-ui, -apple-system, sans-serif;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* Custom scrollbar for sleek dark look */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #0d0f13;
+}
+::-webkit-scrollbar-thumb {
+  background: #2a313d;
+  border-radius: 2px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #f37021;
+}
+
+/* Subtle gritty scanline effect */
+.bg-scanlines {
+  background: linear-gradient(
+    rgba(18, 22, 28, 0) 50%,
+    rgba(0, 0, 0, 0.25) 50%
+  );
+  background-size: 100% 4px;
+}
+
+/* Pricedown fallback class */
+.font-pricedown {
+  font-family: 'Pricedown Black', 'Pricedown', var(--font-oswald), Impact, sans-serif;
 }

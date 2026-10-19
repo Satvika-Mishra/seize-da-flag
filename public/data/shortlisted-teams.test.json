@@ -1,0 +1,902 @@
+[
+  {
+    "id": "team-001",
+    "teamName": "CIPHER DIVISION",
+    "teamLeader": "Tanvi Iyer",
+    "teamSize": 2
+  },
+  {
+    "id": "team-002",
+    "teamName": "STEALTH CARTEL",
+    "teamLeader": "Rahul Gupta",
+    "teamSize": 3
+  },
+  {
+    "id": "team-003",
+    "teamName": "VOID OPERATORS",
+    "teamLeader": "Aditi Aggarwal",
+    "teamSize": 1
+  },
+  {
+    "id": "team-004",
+    "teamName": "IRON FORCE",
+    "teamLeader": "Yash Chopra",
+    "teamSize": 2
+  },
+  {
+    "id": "team-005",
+    "teamName": "KERNEL BRIGADE",
+    "teamLeader": "Neha Trivedi",
+    "teamSize": 3
+  },
+  {
+    "id": "team-006",
+    "teamName": "BYTE BANDITS",
+    "teamLeader": "Harsh Saxena",
+    "teamSize": 1
+  },
+  {
+    "id": "team-007",
+    "teamName": "VECTOR LEGION",
+    "teamLeader": "Ananya Yadav",
+    "teamSize": 2
+  },
+  {
+    "id": "team-008",
+    "teamName": "INTRUSION RAIDERS",
+    "teamLeader": "Aditya Rao",
+    "teamSize": 3
+  },
+  {
+    "id": "team-009",
+    "teamName": "CYBER CELL",
+    "teamLeader": "Simran Patel",
+    "teamSize": 1
+  },
+  {
+    "id": "team-010",
+    "teamName": "BLACK RUNNERS",
+    "teamLeader": "Dev Kulkarni",
+    "teamSize": 2
+  },
+  {
+    "id": "team-011",
+    "teamName": "STACK ACCESS",
+    "teamLeader": "Kavya Joshi",
+    "teamSize": 3
+  },
+  {
+    "id": "team-012",
+    "teamName": "CHAOS OVERFLOW",
+    "teamLeader": "Vikram Pandey",
+    "teamSize": 1
+  },
+  {
+    "id": "team-013",
+    "teamName": "ROOT VANGUARD",
+    "teamLeader": "Anushka Nair",
+    "teamSize": 2
+  },
+  {
+    "id": "team-014",
+    "teamName": "DARK DAY",
+    "teamLeader": "Rohan Dubey",
+    "teamSize": 3
+  },
+  {
+    "id": "team-015",
+    "teamName": "PACKET SNIFFERS",
+    "teamLeader": "Riya Deshmukh",
+    "teamSize": 1
+  },
+  {
+    "id": "team-016",
+    "teamName": "PHANTOM SQUAD",
+    "teamLeader": "Varun Singh",
+    "teamSize": 2
+  },
+  {
+    "id": "team-017",
+    "teamName": "TITAN PROTOCOL",
+    "teamLeader": "Sneha Chatterjee",
+    "teamSize": 3
+  },
+  {
+    "id": "team-018",
+    "teamName": "BINARY MASTERS",
+    "teamLeader": "Aryan Mehta",
+    "teamSize": 1
+  },
+  {
+    "id": "team-019",
+    "teamName": "NIGHT ALLIANCE",
+    "teamLeader": "Isha Bansal",
+    "teamSize": 2
+  },
+  {
+    "id": "team-020",
+    "teamName": "DECRYPT CREW",
+    "teamLeader": "Nikhil Reddy",
+    "teamSize": 3
+  },
+  {
+    "id": "team-021",
+    "teamName": "NEXUS SENTINELS",
+    "teamLeader": "Priya Chaudhary",
+    "teamSize": 1
+  },
+  {
+    "id": "team-022",
+    "teamName": "ZERO SYNDICATE",
+    "teamLeader": "Siddharth Mishra",
+    "teamSize": 2
+  },
+  {
+    "id": "team-023",
+    "teamName": "GHOST STORM",
+    "teamLeader": "Shruti Verma",
+    "teamSize": 3
+  },
+  {
+    "id": "team-024",
+    "teamName": "BUFFER WARRIORS",
+    "teamLeader": "Karan Banerjee",
+    "teamSize": 1
+  },
+  {
+    "id": "team-025",
+    "teamName": "VORTEX PANIC",
+    "teamLeader": "Diya Malhotra",
+    "teamSize": 2
+  },
+  {
+    "id": "team-026",
+    "teamName": "SHADOW KNIGHTS",
+    "teamLeader": "Arjun Chawla",
+    "teamSize": 3
+  },
+  {
+    "id": "team-027",
+    "teamName": "RED GUILD",
+    "teamLeader": "Meera Bhatia",
+    "teamSize": 1
+  },
+  {
+    "id": "team-028",
+    "teamName": "SYN NET",
+    "teamLeader": "Kabir Soni",
+    "teamSize": 2
+  },
+  {
+    "id": "team-029",
+    "teamName": "ROGUE EXPLOIT",
+    "teamLeader": "Pooja Kapoor",
+    "teamSize": 3
+  },
+  {
+    "id": "team-030",
+    "teamName": "NULL BYTE",
+    "teamLeader": "Aarav Sharma",
+    "teamSize": 1
+  },
+  {
+    "id": "team-031",
+    "teamName": "CIPHER DIVISION 4",
+    "teamLeader": "Tanvi Iyer",
+    "teamSize": 2
+  },
+  {
+    "id": "team-032",
+    "teamName": "STEALTH CARTEL 4",
+    "teamLeader": "Rahul Gupta",
+    "teamSize": 3
+  },
+  {
+    "id": "team-033",
+    "teamName": "VOID OPERATORS 4",
+    "teamLeader": "Aditi Aggarwal",
+    "teamSize": 1
+  },
+  {
+    "id": "team-034",
+    "teamName": "IRON FORCE 4",
+    "teamLeader": "Yash Chopra",
+    "teamSize": 2
+  },
+  {
+    "id": "team-035",
+    "teamName": "KERNEL BRIGADE 4",
+    "teamLeader": "Neha Trivedi",
+    "teamSize": 3
+  },
+  {
+    "id": "team-036",
+    "teamName": "BYTE BANDITS 4",
+    "teamLeader": "Harsh Saxena",
+    "teamSize": 1
+  },
+  {
+    "id": "team-037",
+    "teamName": "VECTOR LEGION 4",
+    "teamLeader": "Ananya Yadav",
+    "teamSize": 2
+  },
+  {
+    "id": "team-038",
+    "teamName": "INTRUSION RAIDERS 4",
+    "teamLeader": "Aditya Rao",
+    "teamSize": 3
+  },
+  {
+    "id": "team-039",
+    "teamName": "CYBER CELL 4",
+    "teamLeader": "Simran Patel",
+    "teamSize": 1
+  },
+  {
+    "id": "team-040",
+    "teamName": "BLACK RUNNERS 5",
+    "teamLeader": "Dev Kulkarni",
+    "teamSize": 2
+  },
+  {
+    "id": "team-041",
+    "teamName": "STACK ACCESS 5",
+    "teamLeader": "Kavya Joshi",
+    "teamSize": 3
+  },
+  {
+    "id": "team-042",
+    "teamName": "CHAOS OVERFLOW 5",
+    "teamLeader": "Vikram Pandey",
+    "teamSize": 1
+  },
+  {
+    "id": "team-043",
+    "teamName": "ROOT VANGUARD 5",
+    "teamLeader": "Anushka Nair",
+    "teamSize": 2
+  },
+  {
+    "id": "team-044",
+    "teamName": "DARK DAY 5",
+    "teamLeader": "Rohan Dubey",
+    "teamSize": 3
+  },
+  {
+    "id": "team-045",
+    "teamName": "PACKET SNIFFERS 5",
+    "teamLeader": "Riya Deshmukh",
+    "teamSize": 1
+  },
+  {
+    "id": "team-046",
+    "teamName": "PHANTOM SQUAD 5",
+    "teamLeader": "Varun Singh",
+    "teamSize": 2
+  },
+  {
+    "id": "team-047",
+    "teamName": "TITAN PROTOCOL 5",
+    "teamLeader": "Sneha Chatterjee",
+    "teamSize": 3
+  },
+  {
+    "id": "team-048",
+    "teamName": "BINARY MASTERS 5",
+    "teamLeader": "Aryan Mehta",
+    "teamSize": 1
+  },
+  {
+    "id": "team-049",
+    "teamName": "NIGHT ALLIANCE 5",
+    "teamLeader": "Isha Bansal",
+    "teamSize": 2
+  },
+  {
+    "id": "team-050",
+    "teamName": "DECRYPT CREW 6",
+    "teamLeader": "Nikhil Reddy",
+    "teamSize": 3
+  },
+  {
+    "id": "team-051",
+    "teamName": "NEXUS SENTINELS 6",
+    "teamLeader": "Priya Chaudhary",
+    "teamSize": 1
+  },
+  {
+    "id": "team-052",
+    "teamName": "ZERO SYNDICATE 6",
+    "teamLeader": "Siddharth Mishra",
+    "teamSize": 2
+  },
+  {
+    "id": "team-053",
+    "teamName": "GHOST STORM 6",
+    "teamLeader": "Shruti Verma",
+    "teamSize": 3
+  },
+  {
+    "id": "team-054",
+    "teamName": "BUFFER WARRIORS 6",
+    "teamLeader": "Karan Banerjee",
+    "teamSize": 1
+  },
+  {
+    "id": "team-055",
+    "teamName": "VORTEX PANIC 6",
+    "teamLeader": "Diya Malhotra",
+    "teamSize": 2
+  },
+  {
+    "id": "team-056",
+    "teamName": "SHADOW KNIGHTS 6",
+    "teamLeader": "Arjun Chawla",
+    "teamSize": 3
+  },
+  {
+    "id": "team-057",
+    "teamName": "RED GUILD 6",
+    "teamLeader": "Meera Bhatia",
+    "teamSize": 1
+  },
+  {
+    "id": "team-058",
+    "teamName": "SYN NET 6",
+    "teamLeader": "Kabir Soni",
+    "teamSize": 2
+  },
+  {
+    "id": "team-059",
+    "teamName": "ROGUE EXPLOIT 6",
+    "teamLeader": "Pooja Kapoor",
+    "teamSize": 3
+  },
+  {
+    "id": "team-060",
+    "teamName": "NULL BYTE 7",
+    "teamLeader": "Aarav Sharma",
+    "teamSize": 1
+  },
+  {
+    "id": "team-061",
+    "teamName": "CIPHER DIVISION 7",
+    "teamLeader": "Tanvi Iyer",
+    "teamSize": 2
+  },
+  {
+    "id": "team-062",
+    "teamName": "STEALTH CARTEL 7",
+    "teamLeader": "Rahul Gupta",
+    "teamSize": 3
+  },
+  {
+    "id": "team-063",
+    "teamName": "VOID OPERATORS 7",
+    "teamLeader": "Aditi Aggarwal",
+    "teamSize": 1
+  },
+  {
+    "id": "team-064",
+    "teamName": "IRON FORCE 7",
+    "teamLeader": "Yash Chopra",
+    "teamSize": 2
+  },
+  {
+    "id": "team-065",
+    "teamName": "KERNEL BRIGADE 7",
+    "teamLeader": "Neha Trivedi",
+    "teamSize": 3
+  },
+  {
+    "id": "team-066",
+    "teamName": "BYTE BANDITS 7",
+    "teamLeader": "Harsh Saxena",
+    "teamSize": 1
+  },
+  {
+    "id": "team-067",
+    "teamName": "VECTOR LEGION 7",
+    "teamLeader": "Ananya Yadav",
+    "teamSize": 2
+  },
+  {
+    "id": "team-068",
+    "teamName": "INTRUSION RAIDERS 7",
+    "teamLeader": "Aditya Rao",
+    "teamSize": 3
+  },
+  {
+    "id": "team-069",
+    "teamName": "CYBER CELL 7",
+    "teamLeader": "Simran Patel",
+    "teamSize": 1
+  },
+  {
+    "id": "team-070",
+    "teamName": "BLACK RUNNERS 8",
+    "teamLeader": "Dev Kulkarni",
+    "teamSize": 2
+  },
+  {
+    "id": "team-071",
+    "teamName": "STACK ACCESS 8",
+    "teamLeader": "Kavya Joshi",
+    "teamSize": 3
+  },
+  {
+    "id": "team-072",
+    "teamName": "CHAOS OVERFLOW 8",
+    "teamLeader": "Vikram Pandey",
+    "teamSize": 1
+  },
+  {
+    "id": "team-073",
+    "teamName": "ROOT VANGUARD 8",
+    "teamLeader": "Anushka Nair",
+    "teamSize": 2
+  },
+  {
+    "id": "team-074",
+    "teamName": "DARK DAY 8",
+    "teamLeader": "Rohan Dubey",
+    "teamSize": 3
+  },
+  {
+    "id": "team-075",
+    "teamName": "PACKET SNIFFERS 8",
+    "teamLeader": "Riya Deshmukh",
+    "teamSize": 1
+  },
+  {
+    "id": "team-076",
+    "teamName": "PHANTOM SQUAD 8",
+    "teamLeader": "Varun Singh",
+    "teamSize": 2
+  },
+  {
+    "id": "team-077",
+    "teamName": "TITAN PROTOCOL 8",
+    "teamLeader": "Sneha Chatterjee",
+    "teamSize": 3
+  },
+  {
+    "id": "team-078",
+    "teamName": "BINARY MASTERS 8",
+    "teamLeader": "Aryan Mehta",
+    "teamSize": 1
+  },
+  {
+    "id": "team-079",
+    "teamName": "NIGHT ALLIANCE 8",
+    "teamLeader": "Isha Bansal",
+    "teamSize": 2
+  },
+  {
+    "id": "team-080",
+    "teamName": "DECRYPT CREW 9",
+    "teamLeader": "Nikhil Reddy",
+    "teamSize": 3
+  },
+  {
+    "id": "team-081",
+    "teamName": "NEXUS SENTINELS 9",
+    "teamLeader": "Priya Chaudhary",
+    "teamSize": 1
+  },
+  {
+    "id": "team-082",
+    "teamName": "ZERO SYNDICATE 9",
+    "teamLeader": "Siddharth Mishra",
+    "teamSize": 2
+  },
+  {
+    "id": "team-083",
+    "teamName": "GHOST STORM 9",
+    "teamLeader": "Shruti Verma",
+    "teamSize": 3
+  },
+  {
+    "id": "team-084",
+    "teamName": "BUFFER WARRIORS 9",
+    "teamLeader": "Karan Banerjee",
+    "teamSize": 1
+  },
+  {
+    "id": "team-085",
+    "teamName": "VORTEX PANIC 9",
+    "teamLeader": "Diya Malhotra",
+    "teamSize": 2
+  },
+  {
+    "id": "team-086",
+    "teamName": "SHADOW KNIGHTS 9",
+    "teamLeader": "Arjun Chawla",
+    "teamSize": 3
+  },
+  {
+    "id": "team-087",
+    "teamName": "RED GUILD 9",
+    "teamLeader": "Meera Bhatia",
+    "teamSize": 1
+  },
+  {
+    "id": "team-088",
+    "teamName": "SYN NET 9",
+    "teamLeader": "Kabir Soni",
+    "teamSize": 2
+  },
+  {
+    "id": "team-089",
+    "teamName": "ROGUE EXPLOIT 9",
+    "teamLeader": "Pooja Kapoor",
+    "teamSize": 3
+  },
+  {
+    "id": "team-090",
+    "teamName": "NULL BYTE 10",
+    "teamLeader": "Aarav Sharma",
+    "teamSize": 1
+  },
+  {
+    "id": "team-091",
+    "teamName": "CIPHER DIVISION 10",
+    "teamLeader": "Tanvi Iyer",
+    "teamSize": 2
+  },
+  {
+    "id": "team-092",
+    "teamName": "STEALTH CARTEL 10",
+    "teamLeader": "Rahul Gupta",
+    "teamSize": 3
+  },
+  {
+    "id": "team-093",
+    "teamName": "VOID OPERATORS 10",
+    "teamLeader": "Aditi Aggarwal",
+    "teamSize": 1
+  },
+  {
+    "id": "team-094",
+    "teamName": "IRON FORCE 10",
+    "teamLeader": "Yash Chopra",
+    "teamSize": 2
+  },
+  {
+    "id": "team-095",
+    "teamName": "KERNEL BRIGADE 10",
+    "teamLeader": "Neha Trivedi",
+    "teamSize": 3
+  },
+  {
+    "id": "team-096",
+    "teamName": "BYTE BANDITS 10",
+    "teamLeader": "Harsh Saxena",
+    "teamSize": 1
+  },
+  {
+    "id": "team-097",
+    "teamName": "VECTOR LEGION 10",
+    "teamLeader": "Ananya Yadav",
+    "teamSize": 2
+  },
+  {
+    "id": "team-098",
+    "teamName": "INTRUSION RAIDERS 10",
+    "teamLeader": "Aditya Rao",
+    "teamSize": 3
+  },
+  {
+    "id": "team-099",
+    "teamName": "CYBER CELL 10",
+    "teamLeader": "Simran Patel",
+    "teamSize": 1
+  },
+  {
+    "id": "team-100",
+    "teamName": "BLACK RUNNERS 11",
+    "teamLeader": "Dev Kulkarni",
+    "teamSize": 2
+  },
+  {
+    "id": "team-101",
+    "teamName": "STACK ACCESS 11",
+    "teamLeader": "Kavya Joshi",
+    "teamSize": 3
+  },
+  {
+    "id": "team-102",
+    "teamName": "CHAOS OVERFLOW 11",
+    "teamLeader": "Vikram Pandey",
+    "teamSize": 1
+  },
+  {
+    "id": "team-103",
+    "teamName": "ROOT VANGUARD 11",
+    "teamLeader": "Anushka Nair",
+    "teamSize": 2
+  },
+  {
+    "id": "team-104",
+    "teamName": "DARK DAY 11",
+    "teamLeader": "Rohan Dubey",
+    "teamSize": 3
+  },
+  {
+    "id": "team-105",
+    "teamName": "PACKET SNIFFERS 11",
+    "teamLeader": "Riya Deshmukh",
+    "teamSize": 1
+  },
+  {
+    "id": "team-106",
+    "teamName": "PHANTOM SQUAD 11",
+    "teamLeader": "Varun Singh",
+    "teamSize": 2
+  },
+  {
+    "id": "team-107",
+    "teamName": "TITAN PROTOCOL 11",
+    "teamLeader": "Sneha Chatterjee",
+    "teamSize": 3
+  },
+  {
+    "id": "team-108",
+    "teamName": "BINARY MASTERS 11",
+    "teamLeader": "Aryan Mehta",
+    "teamSize": 1
+  },
+  {
+    "id": "team-109",
+    "teamName": "NIGHT ALLIANCE 11",
+    "teamLeader": "Isha Bansal",
+    "teamSize": 2
+  },
+  {
+    "id": "team-110",
+    "teamName": "DECRYPT CREW 12",
+    "teamLeader": "Nikhil Reddy",
+    "teamSize": 3
+  },
+  {
+    "id": "team-111",
+    "teamName": "NEXUS SENTINELS 12",
+    "teamLeader": "Priya Chaudhary",
+    "teamSize": 1
+  },
+  {
+    "id": "team-112",
+    "teamName": "ZERO SYNDICATE 12",
+    "teamLeader": "Siddharth Mishra",
+    "teamSize": 2
+  },
+  {
+    "id": "team-113",
+    "teamName": "GHOST STORM 12",
+    "teamLeader": "Shruti Verma",
+    "teamSize": 3
+  },
+  {
+    "id": "team-114",
+    "teamName": "BUFFER WARRIORS 12",
+    "teamLeader": "Karan Banerjee",
+    "teamSize": 1
+  },
+  {
+    "id": "team-115",
+    "teamName": "VORTEX PANIC 12",
+    "teamLeader": "Diya Malhotra",
+    "teamSize": 2
+  },
+  {
+    "id": "team-116",
+    "teamName": "SHADOW KNIGHTS 12",
+    "teamLeader": "Arjun Chawla",
+    "teamSize": 3
+  },
+  {
+    "id": "team-117",
+    "teamName": "RED GUILD 12",
+    "teamLeader": "Meera Bhatia",
+    "teamSize": 1
+  },
+  {
+    "id": "team-118",
+    "teamName": "SYN NET 12",
+    "teamLeader": "Kabir Soni",
+    "teamSize": 2
+  },
+  {
+    "id": "team-119",
+    "teamName": "ROGUE EXPLOIT 12",
+    "teamLeader": "Pooja Kapoor",
+    "teamSize": 3
+  },
+  {
+    "id": "team-120",
+    "teamName": "NULL BYTE 13",
+    "teamLeader": "Aarav Sharma",
+    "teamSize": 1
+  },
+  {
+    "id": "team-121",
+    "teamName": "CIPHER DIVISION 13",
+    "teamLeader": "Tanvi Iyer",
+    "teamSize": 2
+  },
+  {
+    "id": "team-122",
+    "teamName": "STEALTH CARTEL 13",
+    "teamLeader": "Rahul Gupta",
+    "teamSize": 3
+  },
+  {
+    "id": "team-123",
+    "teamName": "VOID OPERATORS 13",
+    "teamLeader": "Aditi Aggarwal",
+    "teamSize": 1
+  },
+  {
+    "id": "team-124",
+    "teamName": "IRON FORCE 13",
+    "teamLeader": "Yash Chopra",
+    "teamSize": 2
+  },
+  {
+    "id": "team-125",
+    "teamName": "KERNEL BRIGADE 13",
+    "teamLeader": "Neha Trivedi",
+    "teamSize": 3
+  },
+  {
+    "id": "team-126",
+    "teamName": "BYTE BANDITS 13",
+    "teamLeader": "Harsh Saxena",
+    "teamSize": 1
+  },
+  {
+    "id": "team-127",
+    "teamName": "VECTOR LEGION 13",
+    "teamLeader": "Ananya Yadav",
+    "teamSize": 2
+  },
+  {
+    "id": "team-128",
+    "teamName": "INTRUSION RAIDERS 13",
+    "teamLeader": "Aditya Rao",
+    "teamSize": 3
+  },
+  {
+    "id": "team-129",
+    "teamName": "CYBER CELL 13",
+    "teamLeader": "Simran Patel",
+    "teamSize": 1
+  },
+  {
+    "id": "team-130",
+    "teamName": "BLACK RUNNERS 14",
+    "teamLeader": "Dev Kulkarni",
+    "teamSize": 2
+  },
+  {
+    "id": "team-131",
+    "teamName": "STACK ACCESS 14",
+    "teamLeader": "Kavya Joshi",
+    "teamSize": 3
+  },
+  {
+    "id": "team-132",
+    "teamName": "CHAOS OVERFLOW 14",
+    "teamLeader": "Vikram Pandey",
+    "teamSize": 1
+  },
+  {
+    "id": "team-133",
+    "teamName": "ROOT VANGUARD 14",
+    "teamLeader": "Anushka Nair",
+    "teamSize": 2
+  },
+  {
+    "id": "team-134",
+    "teamName": "DARK DAY 14",
+    "teamLeader": "Rohan Dubey",
+    "teamSize": 3
+  },
+  {
+    "id": "team-135",
+    "teamName": "PACKET SNIFFERS 14",
+    "teamLeader": "Riya Deshmukh",
+    "teamSize": 1
+  },
+  {
+    "id": "team-136",
+    "teamName": "PHANTOM SQUAD 14",
+    "teamLeader": "Varun Singh",
+    "teamSize": 2
+  },
+  {
+    "id": "team-137",
+    "teamName": "TITAN PROTOCOL 14",
+    "teamLeader": "Sneha Chatterjee",
+    "teamSize": 3
+  },
+  {
+    "id": "team-138",
+    "teamName": "BINARY MASTERS 14",
+    "teamLeader": "Aryan Mehta",
+    "teamSize": 1
+  },
+  {
+    "id": "team-139",
+    "teamName": "NIGHT ALLIANCE 14",
+    "teamLeader": "Isha Bansal",
+    "teamSize": 2
+  },
+  {
+    "id": "team-140",
+    "teamName": "DECRYPT CREW 15",
+    "teamLeader": "Nikhil Reddy",
+    "teamSize": 3
+  },
+  {
+    "id": "team-141",
+    "teamName": "NEXUS SENTINELS 15",
+    "teamLeader": "Priya Chaudhary",
+    "teamSize": 1
+  },
+  {
+    "id": "team-142",
+    "teamName": "ZERO SYNDICATE 15",
+    "teamLeader": "Siddharth Mishra",
+    "teamSize": 2
+  },
+  {
+    "id": "team-143",
+    "teamName": "GHOST STORM 15",
+    "teamLeader": "Shruti Verma",
+    "teamSize": 3
+  },
+  {
+    "id": "team-144",
+    "teamName": "BUFFER WARRIORS 15",
+    "teamLeader": "Karan Banerjee",
+    "teamSize": 1
+  },
+  {
+    "id": "team-145",
+    "teamName": "VORTEX PANIC 15",
+    "teamLeader": "Diya Malhotra",
+    "teamSize": 2
+  },
+  {
+    "id": "team-146",
+    "teamName": "SHADOW KNIGHTS 15",
+    "teamLeader": "Arjun Chawla",
+    "teamSize": 3
+  },
+  {
+    "id": "team-147",
+    "teamName": "RED GUILD 15",
+    "teamLeader": "Meera Bhatia",
+    "teamSize": 1
+  },
+  {
+    "id": "team-148",
+    "teamName": "SYN NET 15",
+    "teamLeader": "Kabir Soni",
+    "teamSize": 2
+  },
+  {
+    "id": "team-149",
+    "teamName": "ROGUE EXPLOIT 15",
+    "teamLeader": "Pooja Kapoor",
+    "teamSize": 3
+  },
+  {
+    "id": "team-150",
+    "teamName": "NULL BYTE 16",
+    "teamLeader": "Aarav Sharma",
+    "teamSize": 1
+  }
+]
